@@ -1,0 +1,7 @@
+\\vmware-host\Shared Folders\Documents\SDI_Projects\Hamiloton_Tevin_List\Hamiloton_Tevin_List\obj\Debug\Hamiloton_Tevin_List.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Documents\SDI_Projects\Hamiloton_Tevin_List\Hamiloton_Tevin_List\obj\Debug\Hamiloton_Tevin_List.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\Documents\SDI_Projects\Hamiloton_Tevin_List\Hamiloton_Tevin_List\bin\Debug\Hamiloton_Tevin_List.exe.config
+\\vmware-host\Shared Folders\Documents\SDI_Projects\Hamiloton_Tevin_List\Hamiloton_Tevin_List\bin\Debug\Hamiloton_Tevin_List.exe
+\\vmware-host\Shared Folders\Documents\SDI_Projects\Hamiloton_Tevin_List\Hamiloton_Tevin_List\bin\Debug\Hamiloton_Tevin_List.pdb
+\\vmware-host\Shared Folders\Documents\SDI_Projects\Hamiloton_Tevin_List\Hamiloton_Tevin_List\obj\Debug\Hamiloton_Tevin_List.exe
+\\vmware-host\Shared Folders\Documents\SDI_Projects\Hamiloton_Tevin_List\Hamiloton_Tevin_List\obj\Debug\Hamiloton_Tevin_List.pdb
